@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ZombieExodus",
+			"Path": "..\\Source\\ZombieExodus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ZombieExodusEditor",
+			"Path": "..\\Source\\ZombieExodusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

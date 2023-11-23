@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ZombieExodus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ZombieExodus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ZombieExodusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ZombieExodus">
+      <UniqueIdentifier>{9EEF4454-367E-31D6-A4DC-4A509913760A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ZombieExodus\ZombieExodus.Build.cs">
+      <Filter>Source\ZombieExodus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ZombieExodus\ZombieExodus.cpp">
+      <Filter>Source\ZombieExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ZombieExodus\ZombieExodus.h">
+      <Filter>Source\ZombieExodus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ZombieExodus\ZombieExodusCharacter.cpp">
+      <Filter>Source\ZombieExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ZombieExodus\ZombieExodusCharacter.h">
+      <Filter>Source\ZombieExodus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ZombieExodus\ZombieExodusGameMode.cpp">
+      <Filter>Source\ZombieExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ZombieExodus\ZombieExodusGameMode.h">
+      <Filter>Source\ZombieExodus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ZombieExodus\ZombieExodusPlayerController.cpp">
+      <Filter>Source\ZombieExodus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ZombieExodus\ZombieExodusPlayerController.h">
+      <Filter>Source\ZombieExodus</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

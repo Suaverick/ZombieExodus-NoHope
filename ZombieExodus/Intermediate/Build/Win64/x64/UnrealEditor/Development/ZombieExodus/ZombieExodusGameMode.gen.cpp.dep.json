@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\james norville\\documents\\unreal projects\\zombieexodus\\intermediate\\build\\win64\\unrealeditor\\inc\\zombieexodus\\uht\\zombieexodusgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\james norville\\documents\\unreal projects\\zombieexodus\\intermediate\\build\\win64\\x64\\zombieexoduseditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\james norville\\documents\\unreal projects\\zombieexodus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\zombieexodus\\definitions.zombieexodus.h",
+            "c:\\users\\james norville\\documents\\unreal projects\\zombieexodus\\source\\zombieexodus\\zombieexodusgamemode.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\james norville\\documents\\unreal projects\\zombieexodus\\intermediate\\build\\win64\\unrealeditor\\inc\\zombieexodus\\uht\\zombieexodusgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
